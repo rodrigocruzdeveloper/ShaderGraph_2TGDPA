@@ -42,14 +42,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _HighLight_CutOut: 0.97
+    - _HighLight_CutOut: 0.983
     - _Light_Edge: 0.1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Shadow_Intensity: 0.213
+    - _Shadow_Intensity: 0.2
     m_Colors:
-    - _HighLight_Color: {r: 1, g: 0.8508418, b: 0.54905653, a: 1}
-    - _Main_Color: {r: 1, g: 0.90658367, b: 0.6622641, a: 1}
+    - _HighLight_Color: {r: 1, g: 0.91720587, b: 0.6396227, a: 1}
+    - _Main_Color: {r: 0.94716984, g: 0.93265504, b: 0.43426836, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &4076837878749993494
