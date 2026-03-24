@@ -42,11 +42,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _HighLight_CutOut: 0.983
+    - _HighLight_CutOut: 0.64
     - _Light_Edge: 0.1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Shadow_Intensity: 0.2
+    - _Shadow_Intensity: 0.396
     m_Colors:
     - _HighLight_Color: {r: 1, g: 0.91720587, b: 0.6396227, a: 1}
     - _Main_Color: {r: 0.94716984, g: 0.93265504, b: 0.43426836, a: 1}

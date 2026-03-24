@@ -738,7 +738,7 @@
     "m_ObjectId": "0dd45ea7ca7a48b2aa6f8091be94a1fd",
     "m_Title": "COR DO BRILHO",
     "m_Position": {
-        "x": -1564.800048828125,
+        "x": -1564.8001708984375,
         "y": -1553.5999755859375
     }
 }
@@ -896,8 +896,8 @@
     "m_ObjectId": "28b90a99bb55438e999ccbb55fb971b8",
     "m_Title": "UNÃO DE LUZ E SOMBRA COM BRILHO - LIMITANDO A AREA DE BRILHO",
     "m_Position": {
-        "x": -1191.199951171875,
-        "y": -765.599853515625
+        "x": -1191.2001953125,
+        "y": -765.5999755859375
     }
 }
 
@@ -1164,7 +1164,7 @@
     "m_ObjectId": "435237ee220b4b119360c0816e134fff",
     "m_Title": "DIFUSE (COR + TEXTURA)",
     "m_Position": {
-        "x": -2692.800048828125,
+        "x": -2692.7998046875,
         "y": 380.800048828125
     }
 }
@@ -1235,7 +1235,7 @@
     "m_Title": "INTENSIDADE DA SOMBRA",
     "m_Position": {
         "x": -2344.7998046875,
-        "y": -123.2001953125
+        "y": -123.199951171875
     }
 }
 
@@ -2153,10 +2153,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1763.2000732421875,
-            "y": 173.59999084472657,
-            "width": 208.0,
-            "height": 301.60009765625
+            "x": -1699.9998779296875,
+            "y": 144.79998779296876,
+            "width": 207.9998779296875,
+            "height": 301.5999755859375
         }
     },
     "m_Slots": [
@@ -2805,7 +2805,7 @@
     "m_Title": "ABRE ESPAÇO ENTRE A LUZ E SOMBRA PARA INSERIR O BRILHO",
     "m_Position": {
         "x": -2212.000244140625,
-        "y": -814.3997802734375
+        "y": -814.39990234375
     }
 }
 
@@ -2815,8 +2815,8 @@
     "m_ObjectId": "dfb15a010d0648d3be48c125505645ba",
     "m_Title": "CALCULANDO LUZ E SOMBRA",
     "m_Position": {
-        "x": -3528.00048828125,
-        "y": -196.0
+        "x": -3528.000244140625,
+        "y": -195.9998779296875
     }
 }
 
