@@ -1132,7 +1132,7 @@
     "m_Title": "NOISE CONTROLA A TRANSPARENCIA POR TONS DE CINZA",
     "m_Position": {
         "x": -1199.9998779296875,
-        "y": 280.7998352050781
+        "y": 280.800048828125
     }
 }
 
@@ -1773,8 +1773,8 @@
     "m_ObjectId": "61638606cb2a4d85b2e3cabab07d6d4c",
     "m_Title": "TEXTURA DO MODELO",
     "m_Position": {
-        "x": -1409.5997314453125,
-        "y": -310.39996337890627
+        "x": -1409.599853515625,
+        "y": -310.3999938964844
     }
 }
 
@@ -1918,8 +1918,8 @@
     "m_ObjectId": "6f19461e99cb4435b50cf62e19c35c2a",
     "m_Title": "COMPARTILHA ANIMAÇÃO COM NOISE",
     "m_Position": {
-        "x": -1297.5997314453125,
-        "y": 905.6001586914063
+        "x": -1297.599853515625,
+        "y": 905.5999755859375
     }
 }
 
@@ -3403,7 +3403,7 @@
     "m_Title": "ANIMAÇÃO PARA O CANAL ALPHA (CLIP)",
     "m_Position": {
         "x": -2411.199951171875,
-        "y": 905.6001586914063
+        "y": 905.5999755859375
     }
 }
 

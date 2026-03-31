@@ -1521,8 +1521,8 @@
     "m_ObjectId": "d5cb4da619a3447390163f10e92c47b7",
     "m_Title": "CONTROLA A VELOCIDADE DA ANIMAÇÃO",
     "m_Position": {
-        "x": -1162.4000244140625,
-        "y": 501.60003662109377
+        "x": -1162.39990234375,
+        "y": 501.5999450683594
     }
 }
 
@@ -1817,8 +1817,8 @@
     "m_ObjectId": "ede5daae7cdb4bdc8d21f0ef6f26ef07",
     "m_Title": "FLIPBOOK QUE ANIMA A TEXTURA A PARTIR DO UV (XY| DA MALHA",
     "m_Position": {
-        "x": -1166.4000244140625,
-        "y": -64.0
+        "x": -1166.39990234375,
+        "y": -64.00001525878906
     }
 }
 
